@@ -3,7 +3,7 @@
 ## CRA guest
 go to cra-guest
 
-Module federation is setup in file `moduleFederation.config.js`
+Module federation is setup in file `config-overrides.js`
 
 start it with
 
